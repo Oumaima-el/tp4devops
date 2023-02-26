@@ -1,4 +1,4 @@
-pipeline {
+            pipeline {
   environment {
     registry = "oumaimae/tp4devops"
     registryCredential = 'dockerHub'
